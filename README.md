@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/68599113/96298544-a289a800-0fc0-11eb-9494-d3b388df8cc0.png">
+</p>
 
 # DiagnoSiS - Plataforma Computacional *Open Source* Baseada em *Deep Learning* para Auxílio na Detecção/Diagnóstico da COVID-19 a partir de Imagens de Exames de Radiografia.
 
@@ -7,7 +10,7 @@
   <img src="https://user-images.githubusercontent.com/68599113/96297444-dbc11880-0fbe-11eb-9abb-83eca9bcf28d.png">
 </p>
 
-Em desenvolvimento
+Situação: em desenvolvimento.
 
 # Formulário de Avaliação
 
