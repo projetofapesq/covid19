@@ -1,5 +1,5 @@
 # ----------------------------------------------------------------------------
-# Import Libraries and Packages
+# Import Python Libraries and Packages
 
 import sys
 import numpy as np               # Linear Algebra
