@@ -4,6 +4,7 @@
 import sys
 
 sys.path.insert(1, '/Users/elton/diagnosis/src/lib')
+sys.path.insert(1, '/Users/elton/diagnosis/src/parameters')
 
 from lib import *
 from tf_lib import *
