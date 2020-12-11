@@ -34,9 +34,9 @@ print("\n")
 
 model = Model(inputs = baseModel.input, outputs = headModel)
 
-model.compile(loss = 'binary_crossentropy',
+model.compile(loss='categorical_crossentropy', 
 	          optimizer = opt,
-	          metrics = ['accuracy'])
+	          metrics=['accuracy'])
 
 # Summary of VGG-16
 

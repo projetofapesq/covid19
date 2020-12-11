@@ -24,7 +24,7 @@ labels = []
 # Loop over the image paths
 for imagePath in imagePaths:
 	# Extract the class label from the filename
-	label = imagePath.split(os.path.sep)[-2]
+	label = imagePath.split(os.path.sep)[-3]
 
 	# Load the image, swap color channels, and resize it to be a fixed at
 	# 224x224 pixels while ignoring aspect ratio
@@ -47,5 +47,6 @@ lables = np.array(labels)
 lb = LabelBinarizer()
 labels = lb.fit_transform(labels)
 labels = to_categorical(labels)
+
 
 
