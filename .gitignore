@@ -1,4 +1,6 @@
 .DS_Store
 .h5
 .pyc
+.swo
+.swp
 __pycache__
