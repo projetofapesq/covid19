@@ -18,5 +18,11 @@ Questionário destinado a pneumologistas e demais médicos com o intuito de auxi
 
 [LINK](https://docs.google.com/forms/d/e/1FAIpQLSdoAiUnwLP0w4MZqvo7KIw2O3LXweXnYSKDZTIaGCIujM6rRg/viewform?usp=pp_url) para o Formulário de Avaliação.
 
+# Web App
+
+[LINK](https://projetofapesq.github.io/app/) para acesso da plataforma DiagnoSiS.
+
+
+
 
 
