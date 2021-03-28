@@ -36,6 +36,14 @@ Questionário destinado a pneumologistas e demais médicos com o intuito de auxi
 
 [LINK](https://projetofapesq.github.io/app/) para acesso da plataforma DiagnoSiS.
 
+## 2.1. Acesso ao *Back End* 
+
+[LINK](https://github.com/projetofapesq/app-backend)
+
+## 2.2. Acesso ao *Front End* 
+
+[LINK](https://github.com/projetofapesq/app-frontend)
+
 # 3. Treinamento em Máquina Local da Rede Neural InceptionV3:
 
 ## 3.1. Bibliotecas e Dependências:
@@ -70,6 +78,10 @@ Ao término do treinamento, será possível visualizar as curvas de acurácia e 
 ```bash
 $ python testbench.py 
 ```
+
+# 4. Segmentação de Imagens (U-NET):
+
+# 5. Mapas de Calor (Grad-CAM):
 
 # Contato:
 
