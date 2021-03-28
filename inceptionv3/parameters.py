@@ -17,7 +17,7 @@ TEST_DIR  = os.path.join(BASE_DIR, 'test')
 # Parameters for Training and Validation
 
 IMAGE_SIZE    = (150, 150)
-BATCH         = 20
+BATCH         = 32
 EPOCHS        = 60
-LEARNING_RATE = 1e-3
+LEARNING_RATE = 1e-5
 DECAY         = 1e-6
