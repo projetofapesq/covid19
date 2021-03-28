@@ -6,7 +6,7 @@ import sys
 """ If you want to run this Neural Network at your local machine, please, 
     replace the directory described below: """
 
-sys.path.insert(1, '/Users/elton/Documents/FAPESQ/InceptionV3')
+sys.path.insert(1, '/Users/elton/diagnosis/inceptionv3')
 
 from preprocess import *
 
