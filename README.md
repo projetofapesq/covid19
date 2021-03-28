@@ -12,17 +12,68 @@
 
 Situação: em desenvolvimento.
 
-# Formulário de Avaliação
+## Equipe:
+
+Prof. Helder Alves Pereira
+
+Elton Brasil da Costa
+
+Letícia Chaves Lima Cananéa
+
+João Pedro dos Santos Silva
+
+Júlio Mike Medeiros de Oliveira
+
+Pedro Henrique dos Santos Almeida
+
+# 1. Formulário de Avaliação:
 
 Questionário destinado a pneumologistas e demais médicos com o intuito de auxiliar o projeto & desenvolvimento de uma plataforma computacional para auxílio na detecção/diagnóstico da COVID-19. 
 
 [LINK](https://docs.google.com/forms/d/e/1FAIpQLSdoAiUnwLP0w4MZqvo7KIw2O3LXweXnYSKDZTIaGCIujM6rRg/viewform?usp=pp_url) para o Formulário de Avaliação.
 
-# Web App
+# 2. Web App:
 
 [LINK](https://projetofapesq.github.io/app/) para acesso da plataforma DiagnoSiS.
 
+# 3. Treinamento em Máquina Local da Rede Neural InceptionV3:
 
+## 3.1. Bibliotecas e Dependências:
+
+1. TensorFlow 2.4.0
+2. Keras
+3. Git
+4. Python
+5. Numpy
+6. Pandas
+7. OpenCV
+8. Skimage
+
+## 3.2. Procedimento para Treinamento:
+
+Após a instalação das bibliotecas e dependências, executar os seguintes comandos via terminal ($):
+```bash
+$ git clone https://github.com/projetofapesq/diagnosis.git
+```
+
+Em seguida, acessar a pasta ```inceptionv3```, conforme:
+```bash
+$ cd diagnosis/inceptionv3
+```
+
+Após modificar os diretórios conforme descritos nos comentários dos arquivos ```python```, execute:
+```bash
+$ python main.py
+```
+
+Ao término do treinamento, será possível visualizar as curvas de acurácia e validação da rede neural. Por fim, caso o usuário desejar a classificação de uma singular imagem de radiografia, executar o arquivo ```testbench.py``` (modificar as linhas **13** e **18**) da seguinte maneira:
+```bash
+$ python testbench.py 
+```
+
+# Contato:
+
+email: projetofapesq@ee.ufcg.edu.br
 
 
 
