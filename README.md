@@ -14,7 +14,7 @@ Situação: em desenvolvimento.
 
 ## Equipe:
 
-Prof. Helder Alves Pereira
+Prof. Dr. Helder Alves Pereira
 
 Elton Brasil da Costa
 
@@ -61,7 +61,7 @@ Em seguida, acessar a pasta ```inceptionv3```, conforme:
 $ cd diagnosis/inceptionv3
 ```
 
-Após modificar os diretórios conforme descritos nos comentários dos arquivos ```python```, execute:
+Após modificar os diretórios ressaltados nos comentários dos arquivos ```python```, execute:
 ```bash
 $ python main.py
 ```
