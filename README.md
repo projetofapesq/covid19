@@ -85,7 +85,15 @@ $ python testbench.py
   <img src="https://user-images.githubusercontent.com/68599113/112770698-ef54be80-8ff5-11eb-85dd-9bc6b8e17148.jpg">
 </p>
 
+## 4.1. Bibliotecas e Dependências:
+
+## 4.2. Execução:
+
 # 5. Mapas de Calor (Grad-CAM):
+
+## 5.1. Bibliotecas e Dependências:
+
+## 5.2. Execução:
 
 # Contato:
 
