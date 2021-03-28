@@ -81,6 +81,10 @@ $ python testbench.py
 
 # 4. Segmentação de Imagens (U-NET):
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/68599113/112770698-ef54be80-8ff5-11eb-85dd-9bc6b8e17148.jpg">
+</p>
+
 # 5. Mapas de Calor (Grad-CAM):
 
 # Contato:
