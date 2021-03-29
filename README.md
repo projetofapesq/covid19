@@ -47,7 +47,7 @@ Questionário destinado a pneumologistas e demais médicos com o intuito de auxi
 # 3. Treinamento em Máquina Local da Rede Neural Inception V3
 
 <p align="center">
-  Arquitetura Funcional da Rede Neural Inception V3
+  Organização Funcional do Código da Inception V3
   <img src="https://user-images.githubusercontent.com/68599113/112775061-ba526700-9009-11eb-938e-57ffaa661774.png">
 </p>
 
