@@ -107,7 +107,7 @@ Após a instalação das bibliotecas e dependências, fazer o download dos banco
 
 [LINK](https://lhncbc.nlm.nih.gov/LHC-downloads/downloads.html#tuberculosis-image-data-sets)
 
-Em seguida, acessar a pasta ```unet```, e configurar a extração dos arquivos modificando os respectivos diretórios
+Em seguida, acessar a pasta ```unet/treinamento_unet.py```, e configurar a extração dos arquivos modificando os respectivos diretórios
 
 ![image](https://user-images.githubusercontent.com/68599113/119900861-77cedd00-bf1b-11eb-9b33-3b3f039af1db.png)
 
