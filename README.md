@@ -92,7 +92,34 @@ $ python testbench.py
 
 ## 4.1. Bibliotecas e Dependências:
 
+1. TensorFlow 2.4.0
+2. Keras
+3. Python
+4. Numpy
+5. Matplotlib
+6. OpenCV
+7. glob
+8. tdqm
+9. os
+
 ## 4.2. Execução:
+Após a instalação das bibliotecas e dependências, fazer o download dos bancos de dados Montgomery County CXR Set e Shenzhen Hospital CXR Set, disponiveis em:
+
+[LINK](https://lhncbc.nlm.nih.gov/LHC-downloads/downloads.html#tuberculosis-image-data-sets)
+
+Em seguida, acessar a pasta ```unet```, e configurar a extração dos arquivos modificando os respectivos diretórios
+
+![image](https://user-images.githubusercontent.com/68599113/119900861-77cedd00-bf1b-11eb-9b33-3b3f039af1db.png)
+
+Após modificar esses diretórios, o script já pode ser executado tendo cuidado apenas com os diretórios de teste que também precisam ser modificados
+
+![image](https://user-images.githubusercontent.com/68599113/119901303-1eb37900-bf1c-11eb-9beb-2885ddf3590f.png)
+
+o arquivo .H5 da Unet para ser utilizado diretamente no arquivo``` unet/testbench.py``` pode ser encontrado no link abaixo
+
+[LINK](https://drive.google.com/file/d/1GkHDKf76llxahC6z5DXdHVQ1cZ0dembr/view?usp=sharing)
+
+sendo necessário apenas a mudança de diretório no arquivo de teste.
 
 # 5. Mapas de Calor (Grad-CAM):
 
