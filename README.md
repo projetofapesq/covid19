@@ -123,7 +123,7 @@ sendo necessário apenas a mudança de diretório no arquivo de teste.
 
 # 5. Mapas de Calor (Grad-CAM):
 
-![image](https://user-images.githubusercontent.com/68599113/119903617-57088680-bf1f-11eb-8634-6debd9326120.png)
+![image](https://user-images.githubusercontent.com/68599113/119905810-4b1ec380-bf23-11eb-9c58-be3fda66c039.png)
 
 ## 5.1. Bibliotecas e Dependências:
 
