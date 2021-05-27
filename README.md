@@ -123,9 +123,25 @@ sendo necessário apenas a mudança de diretório no arquivo de teste.
 
 # 5. Mapas de Calor (Grad-CAM):
 
+![image](https://user-images.githubusercontent.com/68599113/119903617-57088680-bf1f-11eb-8634-6debd9326120.png)
+
 ## 5.1. Bibliotecas e Dependências:
 
+1. TensorFlow 2.4.0
+2. Keras
+3. Python
+4. Numpy
+5. Matplotlib
+6. OpenCV
+7. Inception V3
+
 ## 5.2. Execução:
+
+Com o treinamento da Inception V3 realizado, abrindo o arquivo ```heatmap/diagnosis_core.ipynb ``` com o arquivo salvo .H5 da Inception e da Unet 
+
+E Mudando os diretórios preestabelecidos 
+
+Apos a execução será possível observar a imagem de entrada com seu mapa de calor e a sua segmentação
 
 # Contato:
 
